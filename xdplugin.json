@@ -1,0 +1,15 @@
+{
+    "id": "com.krice.swapText",
+    "name": "Swap Text",
+    "host": {
+        "app": "XD",
+        "minVersion": "8.0"
+    },
+    "uiEntryPoints": [
+        {
+            "type": "menu",
+            "label": "Swap Text",
+            "commandId": "pluginCommnad"
+        }
+    ]
+}
